@@ -36,3 +36,5 @@ export const MyLabel = ({ label, size = 'normal', color = "primary", allCaps = f
         >{label}</span>
     )
 }
+
+export default MyLabel;
